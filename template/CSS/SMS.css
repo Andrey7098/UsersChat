@@ -1,0 +1,30 @@
+.field_sms{
+    height: 400px;
+    border: 1px solid;
+    box-shadow: 1px 1px 1px 1px,1px 1px 1px 1px inset; 
+    overflow: auto;
+}
+.XY_sms{
+    margin: 0 25% 0 25%;
+    width: 50%;
+}
+h1{
+    margin: 10px 25% 30px 30%;
+}
+.input_sms{
+    width: 240px;
+    height: 30px;    
+    margin-top: 5px;
+}
+.bottom{
+    width: 80px;
+    height: 30px;
+}
+.sms{
+    height: 400px;
+    width: 600px    ;
+    border: 2px solid;
+}
+#login_interlocutor{
+    display: inline-block;
+}
